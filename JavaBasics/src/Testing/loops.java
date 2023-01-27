@@ -7,6 +7,7 @@ public class loops {
 
 		for (int i = 2; i <= 5; i++) {
 		    System.out.println(i);  // printing the value of i
+			System.out.println(i);  // printing the value of i
 		}
 
 	}
