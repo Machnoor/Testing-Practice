@@ -8,10 +8,6 @@ public class JavaOperators {
 		int s = a + b;
 		System.out.println(s);
 		
-		int y= 10, x=8;
-		int z = y-x;
-		System.out.println(z);
-		
 		
 
 	}
