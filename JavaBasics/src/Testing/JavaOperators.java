@@ -11,6 +11,7 @@ public class JavaOperators {
 		int y= 10, x=8;
 		int z = y-x;
 		System.out.println(z);
+		System.out.println(z);
 		
 		
 
