@@ -1,0 +1,21 @@
+package Testing;
+
+public class Method {
+
+	public void Login() {
+		System.out.println("Enter UserName : Anees");
+		System.out.println("Enter Password : Anees");
+		System.out.println("Enter Login");
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Method x = new Method();
+		x.Login();
+		
+		
+	}
+
+}

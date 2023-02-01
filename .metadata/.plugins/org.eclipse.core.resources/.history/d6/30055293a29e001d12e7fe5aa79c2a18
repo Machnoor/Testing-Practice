@@ -1,0 +1,22 @@
+package Testing;
+
+public class Strings {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		String str= "Hello World";
+		System.out.println(str);
+		
+		int Amt = 1000;
+		double rate = 0.05; 
+		int duration=3;
+	    double Total = Amt*(1+rate*duration);
+		System.out.println(Total);
+
+		String str1= "Hello World";
+		//String str2 = "Say Hello";
+		System.out.println("str1");
+	}
+
+}

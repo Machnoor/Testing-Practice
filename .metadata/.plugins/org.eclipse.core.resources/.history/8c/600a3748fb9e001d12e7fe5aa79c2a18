@@ -1,0 +1,17 @@
+package Testing;
+
+public class Nestedforloop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	int rc=4,i,j;
+	int k=1;
+	for (i=1;i<=rc;i++){
+	System.out.println();
+	}
+	for (j=1;j<=k;j++){
+		System.out.print("*");
+		k++;
+		}
+	}
+}
