@@ -1,0 +1,20 @@
+package Testing;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//-----------------------------------------------------------------		
+		/*int a =10;
+		double x =0.45;
+		char b ='c';
+		System.out.println(a + " \n" + x + " \n" +b);	*/
+//----------------------------------------------------------------
+		int a =10;
+		int b =39;
+		int Area = (a *b);
+		System.out.println(Area);
+		
+	}
+
+}

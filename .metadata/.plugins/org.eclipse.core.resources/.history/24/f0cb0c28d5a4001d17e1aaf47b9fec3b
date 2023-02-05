@@ -1,0 +1,27 @@
+package Testing;
+
+public class loops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//Print the text 5 times, This is Java
+		
+		/*int i;
+		for (i=1; i<=5; i++) {
+			System.out.println("This is Java");
+		}*/
+		
+		//Display a number from 1 to 5
+	int i;
+	for (i=1; i<=5; i++) {
+		
+		System.out.println(i);
+		
+	}
+		
+	
+		
+	}
+
+}
