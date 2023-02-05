@@ -42,6 +42,7 @@ public class loops {
 		for(j=arr.length-1;j>=0;j--) {
 			
 			System.out.println(arr[j] + " ");
+			System.out.println(arr[j] + " ");
 		}
 			}
 }
