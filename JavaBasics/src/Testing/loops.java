@@ -38,6 +38,7 @@ public class loops {
 		for (i=0; i<arr.length;i++) {
 			System.out.print(arr[i] + " ");
 			System.out.print(arr[i] + " ");
+			System.out.print(arr[i] + " ");
 		}
 		
 		for(j=arr.length-1;j>=0;j--) {
