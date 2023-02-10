@@ -7,10 +7,10 @@ public class loops {
 
 		//Print the text 5 times, This is Java
 		
-		int i;
+		/*int i;
 		for (i=1; i<=5; i++) {
 			System.out.println("This is Java");
-		}
+		}*/
 		
 		//Display a number from 1 to 5
 	/*int i;
@@ -33,6 +33,23 @@ public class loops {
 	System.out.println(sum);
 		
 	}*/
+		int i,j;
+		int[] arr = {1,2,3,4,5,6,7,8,9,10};
+		for (i=0; i<arr.length;i++) {
+			System.out.print(arr[i] + " ");
+<<<<<<< HEAD
+			//System.out.print(arr[i] + " ");
+=======
+			System.out.print(arr[i] + " ");
+			System.out.print(arr[i] + " ");
+>>>>>>> cf866b2ef9d5bdbfdf239598a48c06362c9dc297
+		}
 		
+		for(j=arr.length-1;j>=0;j--) {
+			
+			System.out.println(arr[j] + " "+ "\n");
+			System.out.println(arr[j] + " ");
+			//gfgfhfghghghrintln(arr[j] + " ");
+		}
 			}
 }
